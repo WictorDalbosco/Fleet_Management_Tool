@@ -1,0 +1,21 @@
+.bg-mynav {
+    background-color: #34495e;
+}
+
+/* Importe a fonte Montserrat se ainda não estiver incluída */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    font-family: 'Trueno', sans-serif;
+    font-size: 1.25rem;
+    background-color: #f6f8fa;
+}
+
+td {
+    font-family: 'Trueno', sans-serif;
+    line-height: 3rem;
+}
+
+h1, h2, h3, p, a {
+    font-family: 'Trueno', sans-serif;
+}
